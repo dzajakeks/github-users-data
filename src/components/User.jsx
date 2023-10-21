@@ -33,7 +33,7 @@ const User = () => {
             follow
           </a>
         </button>
-        <p className='mb-3 break-before-all w-full mx-auto max-w-[300px]'>
+        <p className='mb-3 break-before-all px-1 w-full mx-auto max-w-[300px]'>
           {bio}
         </p>
         <div className='text-center mb-2 '>
