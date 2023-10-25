@@ -1,5 +1,6 @@
 # GithubUsersData 
 Watched John Smilga's tutorial. Yes, he was my inspiration for this one. 
+https://github-profiles-data.netlify.app
 
 ## Table of Contents
 - [Credits](#credits)
